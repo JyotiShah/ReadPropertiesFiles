@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11115" started-at="2019-02-21T12:02:44Z" finished-at="2019-02-21T12:02:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11115" started-at="2019-02-21T12:02:44Z" finished-at="2019-02-21T12:02:55Z">
+      <class name="com.practice.testFramework.testScripts.TestLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.practice.testFramework.testScripts.TestLogin@29774679]" name="setUp" is-config="true" duration-ms="10166" started-at="2019-02-21T12:02:44Z" finished-at="2019-02-21T12:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.practice.testFramework.testScripts.TestLogin@29774679]" name="login" duration-ms="14" started-at="2019-02-21T12:02:54Z" finished-at="2019-02-21T12:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.practice.testFramework.testScripts.TestLogin@29774679]" name="tearDown" is-config="true" duration-ms="885" started-at="2019-02-21T12:02:54Z" finished-at="2019-02-21T12:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.practice.testFramework.testScripts.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
